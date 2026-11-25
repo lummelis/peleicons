@@ -1,0 +1,89 @@
+<svg width="600" height="600" viewBox="0 0 600 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style>
+@keyframes kf_Group_transform_0 {
+  0% {
+    transform: translateX(154.8px) translateY(20.7px) translateX(0px) translateY(0px);
+  }
+  17% {
+    transform: translateX(154.8px) translateY(20.7px) translateX(98.2px) translateY(0px);
+  }
+  26.19% {
+    transform: translateX(154.8px) translateY(20.7px) translateX(71.019px) translateY(-101.7px);
+  }
+  35.6% {
+    transform: translateX(154.8px) translateY(20.7px) translateX(43.185px) translateY(0px);
+  }
+  50.2% {
+    transform: translateX(154.8px) translateY(20.7px) translateX(0px) translateY(0px);
+  }
+  100% {
+    transform: translateX(154.8px) translateY(20.7px) translateX(0px) translateY(0px);
+  }
+}
+@keyframes kf_Group_opacity_0 {
+  0% {
+    animation-timing-function: linear;
+    opacity: 1;
+  }
+  35.76% {
+    animation-timing-function: linear;
+    opacity: 1;
+  }
+  41.59% {
+    animation-timing-function: cubic-bezier(0.5, 0, 0.5, 1);
+    opacity: 1;
+  }
+  43.73% {
+    animation-timing-function: cubic-bezier(0.5, 0, 0.5, 1);
+    opacity: 0;
+  }
+  45.25% {
+    animation-timing-function: cubic-bezier(0.5, 0, 0.5, 1);
+    opacity: 1;
+  }
+  47.38% {
+    animation-timing-function: cubic-bezier(0.5, 0, 0.5, 1);
+    opacity: 0;
+  }
+  50.2% {
+    animation-timing-function: linear;
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+#Group {
+  transform-origin: 0 0;
+  animation:
+    kf_Group_transform_0 2s linear infinite,
+    kf_Group_opacity_0 2s linear infinite;
+}
+</style>
+<g id="pointer-animated" clip-path="url(#clip0_54_1605)">
+<g id="Group" transform="translate(154.8 20.7)">
+<path id="Vector" d="M28.5 57H57V28.5H28.5V0H0V456H57V427.5H28.5V57Z" fill="black"/>
+<path id="Vector_2" transform="translate(57 399)" d="M28.5 0H0V28.5H28.5V0Z" fill="black"/>
+<path id="Vector_3" transform="translate(85.5 370.5)" d="M28.5 0H0V28.5H28.5V0Z" fill="black"/>
+<path id="Vector_4" transform="translate(114 342)" d="M28.5 0H0V28.5H28.5V0Z" fill="black"/>
+<path id="Vector_5" transform="translate(142.5 370.5)" d="M28.5 0H0V28.5V57H28.5V28.5V0Z" fill="black"/>
+<path id="Vector_6" transform="translate(171 427.5)" d="M28.5 0H0V28.5V57H28.5V28.5V0Z" fill="black"/>
+<path id="Vector_7" transform="translate(57 57)" d="M28.5 0H0V28.5H28.5V0Z" fill="black"/>
+<path id="Vector_8" transform="translate(85.5 85.5)" d="M28.5 0H0V28.5H28.5V0Z" fill="black"/>
+<path id="Vector_9" transform="translate(114 114)" d="M28.5 0H0V28.5H28.5V0Z" fill="black"/>
+<path id="Vector_10" transform="translate(142.5 142.5)" d="M28.5 0H0V28.5H28.5V0Z" fill="black"/>
+<path id="Vector_11" transform="translate(171 171)" d="M28.5 0H0V28.5H28.5V0Z" fill="black"/>
+<path id="Vector_12" transform="translate(199.5 199.5)" d="M28.5 0H0V28.5H28.5V0Z" fill="black"/>
+<path id="Vector_13" transform="translate(228 228)" d="M28.5 0H0V28.5H28.5V0Z" fill="black"/>
+<path id="Vector_14" transform="translate(256.5 256.5)" d="M28.5 0H0V28.5H28.5V0Z" fill="black"/>
+<path id="Vector_15" transform="translate(199.5 285)" d="M114 57V0H85.5V28.5H0V57V85.5H28.5V57H114Z" fill="black"/>
+<path id="Vector_16" transform="translate(199.5 370.5)" d="M28.5 57H56.7V85.5V114H28.5H18.9H0V142.5H18.9H28.5H57V114H85.2V85.5V57H57V28.5V0H28.5V28.5V57Z" fill="black"/>
+<path id="Vector_17" transform="translate(28.5 57)" d="M256.5 256.5V228H228V199.5H199.5V171H171V142.5H142.5V114H114V85.5H85.5V57H57V28.5H28.5V0H0V28.5V57V85.5V114V169.2V228V256.5V285V313.5V342V370.5H28.5V342H57V313.5H85.5V285H114V313.5H142.5V370.5H171V427.5H228V370.5H199.5V313.5H171V256.5H256.5Z" fill="white"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_54_1605">
+<rect width="600" height="600" fill="white"/>
+</clipPath>
+</defs>
+</svg>

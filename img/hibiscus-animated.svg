@@ -1,0 +1,369 @@
+<svg width="600" height="600" viewBox="0 0 600 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style>
+@keyframes kf_Vector_4_opacity_0 {
+  0% {
+    animation-timing-function: linear;
+    opacity: 0;
+  }
+  35.5% {
+    animation-timing-function: cubic-bezier(0.5, 0, 0.5, 1);
+    opacity: 0;
+  }
+  37.58% {
+    animation-timing-function: linear;
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+#Vector_4 {
+  animation: kf_Vector_4_opacity_0 2s linear infinite;
+}
+@keyframes kf_Vector_5_opacity_0 {
+  0% {
+    animation-timing-function: linear;
+    opacity: 0;
+  }
+  47.98% {
+    animation-timing-function: cubic-bezier(0.5, 0, 0.5, 1);
+    opacity: 0;
+  }
+  50% {
+    animation-timing-function: linear;
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+#Vector_5 {
+  animation: kf_Vector_5_opacity_0 2s linear infinite;
+}
+@keyframes kf_Vector_11_opacity_0 {
+  0% {
+    animation-timing-function: linear;
+    opacity: 0;
+  }
+  20.98% {
+    animation-timing-function: cubic-bezier(0.5, 0, 0.5, 1);
+    opacity: 0;
+  }
+  23.06% {
+    animation-timing-function: linear;
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+#Vector_11 {
+  animation: kf_Vector_11_opacity_0 2s linear infinite;
+}
+@keyframes kf_Vector_12_opacity_0 {
+  0% {
+    animation-timing-function: linear;
+    opacity: 0;
+  }
+  35.5% {
+    animation-timing-function: cubic-bezier(0.5, 0, 0.5, 1);
+    opacity: 0;
+  }
+  37.58% {
+    animation-timing-function: linear;
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+#Vector_12 {
+  animation: kf_Vector_12_opacity_0 2s linear infinite;
+}
+@keyframes kf_Vector_23_opacity_0 {
+  0% {
+    animation-timing-function: linear;
+    opacity: 0;
+  }
+  20.98% {
+    animation-timing-function: cubic-bezier(0.5, 0, 0.5, 1);
+    opacity: 0;
+  }
+  23.06% {
+    animation-timing-function: linear;
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+#Vector_23 {
+  animation: kf_Vector_23_opacity_0 2s linear infinite;
+}
+@keyframes kf_Vector_24_opacity_0 {
+  0% {
+    animation-timing-function: linear;
+    opacity: 0;
+  }
+  35.5% {
+    animation-timing-function: cubic-bezier(0.5, 0, 0.5, 1);
+    opacity: 0;
+  }
+  37.58% {
+    animation-timing-function: linear;
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+#Vector_24 {
+  animation: kf_Vector_24_opacity_0 2s linear infinite;
+}
+@keyframes kf_Vector_34_opacity_0 {
+  0% {
+    animation-timing-function: linear;
+    opacity: 0;
+  }
+  11.63% {
+    animation-timing-function: cubic-bezier(0.5, 0, 0.5, 1);
+    opacity: 0;
+  }
+  11.67% {
+    animation-timing-function: cubic-bezier(0.5, 0, 0.5, 1);
+    opacity: 1;
+  }
+  11.69% {
+    animation-timing-function: cubic-bezier(0.5, 0, 0.5, 1);
+    opacity: 0;
+  }
+  13.59% {
+    animation-timing-function: linear;
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+#Vector_34 {
+  animation: kf_Vector_34_opacity_0 2s linear infinite;
+}
+@keyframes kf_Vector_36_opacity_0 {
+  0% {
+    animation-timing-function: linear;
+    opacity: 0;
+  }
+  20.98% {
+    animation-timing-function: cubic-bezier(0.5, 0, 0.5, 1);
+    opacity: 0;
+  }
+  23.06% {
+    animation-timing-function: linear;
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+#Vector_36 {
+  animation: kf_Vector_36_opacity_0 2s linear infinite;
+}
+@keyframes kf_Vector_45_opacity_0 {
+  0% {
+    animation-timing-function: linear;
+    opacity: 0;
+  }
+  6.4% {
+    animation-timing-function: cubic-bezier(0.5, 0, 0.5, 1);
+    opacity: 0;
+  }
+  8.33% {
+    animation-timing-function: linear;
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+#Vector_45 {
+  animation: kf_Vector_45_opacity_0 2s linear infinite;
+}
+@keyframes kf_Vector_67_opacity_0 {
+  0% {
+    animation-timing-function: cubic-bezier(0.5, 0, 0.5, 1);
+    opacity: 0;
+  }
+  2% {
+    animation-timing-function: linear;
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+#Vector_67 {
+  animation: kf_Vector_67_opacity_0 2s linear infinite;
+}
+</style>
+<g id="hibiscus-animated" clip-path="url(#clip0_58_185)">
+<path id="Vector" transform="translate(505.2 319.2)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_2" transform="translate(505.2 281.7)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_3" transform="translate(505.2 244.5)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_4" opacity="0" transform="translate(505.2 132.3)" d="M37.2 0H0V37.2H37.2V0Z" fill="#FDC91F"/>
+<path id="Vector_5" opacity="0" transform="translate(505.2 57.6)" d="M37.2 0H0V37.2H37.2V0Z" fill="#FDC91F"/>
+<path id="Vector_6" transform="translate(468 356.4)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_7" transform="translate(468 319.2)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_8" transform="translate(468 281.7)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_9" transform="translate(468 244.5)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_10" transform="translate(468 207)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_11" opacity="0" transform="translate(468 169.8)" d="M37.2 0H0V37.2H37.2V0Z" fill="#FDC91F"/>
+<path id="Vector_12" opacity="0" transform="translate(468 95.1)" d="M37.2 0H0V37.2H37.2V0Z" fill="#FDC91F"/>
+<path id="Vector_13" transform="translate(430.8 505.8)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_14" transform="translate(430.8 468.3)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_15" transform="translate(430.8 431.1)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_16" transform="translate(430.8 393.6)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_17" transform="translate(430.8 356.4)" d="M37.2 0H0V37.2H37.2V0Z" fill="#8648E0"/>
+<path id="Vector_18" transform="translate(430.8 319.2)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_19" transform="translate(430.8 281.7)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_20" transform="translate(430.8 244.5)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_21" transform="translate(430.8 207)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_22" transform="translate(430.8 169.8)" d="M37.2 0H0V37.2H37.2V0Z" fill="#8648E0"/>
+<path id="Vector_23" opacity="0" transform="translate(430.8 132.3)" d="M37.2 0H0V37.2H37.2V0Z" fill="#FDC91F"/>
+<path id="Vector_24" opacity="0" transform="translate(430.8 57.6)" d="M37.2 0H0V37.2H37.2V0Z" fill="#FDC91F"/>
+<path id="Vector_25" transform="translate(393.3 505.8)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_26" transform="translate(393.3 468.3)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_27" transform="translate(393.3 431.1)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_28" transform="translate(393.3 393.6)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_29" transform="translate(393.3 356.4)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_30" transform="translate(393.3 319.2)" d="M37.2 0H0V37.2H37.2V0Z" fill="#8648E0"/>
+<path id="Vector_31" transform="translate(393.3 281.7)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_32" transform="translate(393.3 244.5)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_33" transform="translate(393.3 207)" d="M37.2 0H0V37.2H37.2V0Z" fill="#8648E0"/>
+<path id="Vector_34" opacity="0" transform="translate(393.3 169.8)" d="M37.2 0H0V37.2H37.2V0Z" fill="#FDC91F"/>
+<path id="Vector_35" transform="translate(393.3 132.3)" d="M37.2 0H0V37.2H37.2V0Z" fill="#8648E0"/>
+<path id="Vector_36" opacity="0" transform="translate(393.3 95.1)" d="M37.2 0H0V37.2H37.2V0Z" fill="#FDC91F"/>
+<path id="Vector_37" transform="translate(356.1 505.8)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_38" transform="translate(356.1 468.3)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_39" transform="translate(356.1 431.1)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_40" transform="translate(356.1 393.6)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_41" transform="translate(356.1 356.4)" d="M37.2 0H0V37.2H37.2V0Z" fill="#8648E0"/>
+<path id="Vector_42" transform="translate(356.1 319.2)" d="M37.2 0H0V37.2H37.2V0Z" fill="#8648E0"/>
+<path id="Vector_43" transform="translate(356.1 281.7)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_44" transform="translate(356.1 244.5)" d="M37.2 0H0V37.2H37.2V0Z" fill="#8648E0"/>
+<path id="Vector_45" opacity="0" transform="translate(356.1 207)" d="M37.2 0H0V37.2H37.2V0Z" fill="#FDC91F"/>
+<path id="Vector_46" transform="translate(356.1 169.8)" d="M37.2 0H0V37.2H37.2V0Z" fill="#8648E0"/>
+<path id="Vector_47" transform="translate(356.1 132.3)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_48" transform="translate(356.1 95.1)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_49" transform="translate(318.6 505.8)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_50" transform="translate(318.6 468.3)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_51" transform="translate(318.6 431.1)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_52" transform="translate(318.6 393.6)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_53" transform="translate(318.6 356.4)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_54" transform="translate(318.6 319.2)" d="M37.2 0H0V37.2H37.2V0Z" fill="#8648E0"/>
+<path id="Vector_55" transform="translate(318.6 281.7)" d="M37.2 0H0V37.2H37.2V0Z" fill="#8648E0"/>
+<path id="Vector_56" transform="translate(318.6 244.5)" d="M37.2 0H0V37.2H37.2V0Z" fill="#8648E0"/>
+<path id="Vector_57" transform="translate(318.6 207)" d="M37.2 0H0V37.2H37.2V0Z" fill="#8648E0"/>
+<path id="Vector_58" transform="translate(318.6 169.8)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_59" transform="translate(318.6 132.3)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_60" transform="translate(318.6 95.1)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_61" transform="translate(318.6 57.6)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_62" transform="translate(281.4 468.3)" d="M37.2 0H0V37.2H37.2V0Z" fill="#8648E0"/>
+<path id="Vector_63" transform="translate(281.4 431.1)" d="M37.2 0H0V37.2H37.2V0Z" fill="#8648E0"/>
+<path id="Vector_64" transform="translate(281.4 393.6)" d="M37.2 0H0V37.2H37.2V0Z" fill="#8648E0"/>
+<path id="Vector_65" transform="translate(281.4 356.4)" d="M37.2 0H0V37.2H37.2V0Z" fill="#8648E0"/>
+<path id="Vector_66" transform="translate(281.4 319.2)" d="M37.2 0H0V37.2H37.2V0Z" fill="#8648E0"/>
+<path id="Vector_67" opacity="0" transform="translate(281.4 281.7)" d="M37.2 0H0V37.2H37.2V0Z" fill="#FDC91F"/>
+<path id="Vector_68" transform="translate(281.4 244.5)" d="M37.2 0H0V37.2H37.2V0Z" fill="#8648E0"/>
+<path id="Vector_69" transform="translate(281.4 207)" d="M37.2 0H0V37.2H37.2V0Z" fill="#8648E0"/>
+<path id="Vector_70" transform="translate(281.4 169.8)" d="M37.2 0H0V37.2H37.2V0Z" fill="#8648E0"/>
+<path id="Vector_71" transform="translate(281.4 132.3)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_72" transform="translate(281.4 95.1)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_73" transform="translate(281.4 57.6)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_74" transform="translate(243.9 505.8)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_75" transform="translate(243.9 468.3)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_76" transform="translate(243.9 431.1)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_77" transform="translate(243.9 393.6)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_78" transform="translate(243.9 356.4)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_79" transform="translate(243.9 319.2)" d="M37.2 0H0V37.2H37.2V0Z" fill="#8648E0"/>
+<path id="Vector_80" transform="translate(243.9 281.7)" d="M37.2 0H0V37.2H37.2V0Z" fill="#8648E0"/>
+<path id="Vector_81" transform="translate(243.9 244.5)" d="M37.2 0H0V37.2H37.2V0Z" fill="#8648E0"/>
+<path id="Vector_82" transform="translate(243.9 207)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_83" transform="translate(243.9 169.8)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_84" transform="translate(243.9 132.3)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_85" transform="translate(243.9 95.1)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_86" transform="translate(243.9 57.6)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_87" transform="translate(206.7 505.8)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_88" transform="translate(206.7 468.3)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_89" transform="translate(206.7 431.1)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_90" transform="translate(206.7 393.6)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_91" transform="translate(206.7 356.4)" d="M37.2 0H0V37.2H37.2V0Z" fill="#8648E0"/>
+<path id="Vector_92" transform="translate(206.7 319.2)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_93" transform="translate(206.7 281.7)" d="M37.2 0H0V37.2H37.2V0Z" fill="#8648E0"/>
+<path id="Vector_94" transform="translate(206.7 244.5)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_95" transform="translate(206.7 207)" d="M37.2 0H0V37.2H37.2V0Z" fill="#8648E0"/>
+<path id="Vector_96" transform="translate(206.7 169.8)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_97" transform="translate(206.7 132.3)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_98" transform="translate(206.7 95.1)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_99" transform="translate(169.2 505.8)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_100" transform="translate(169.2 468.3)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_101" transform="translate(169.2 431.1)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_102" transform="translate(169.2 393.6)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_103" transform="translate(169.2 356.4)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_104" transform="translate(169.2 319.2)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_105" transform="translate(169.2 281.7)" d="M37.2 0H0V37.2H37.2V0Z" fill="#8648E0"/>
+<path id="Vector_106" transform="translate(169.2 244.5)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_107" transform="translate(169.2 207)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_108" transform="translate(169.2 169.8)" d="M37.2 0H0V37.2H37.2V0Z" fill="#8648E0"/>
+<path id="Vector_109" transform="translate(169.2 132.3)" d="M37.2 0H0V37.2H37.2V0Z" fill="#8648E0"/>
+<path id="Vector_110" transform="translate(169.2 95.1)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_111" transform="translate(132 468.3)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_112" transform="translate(132 431.1)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_113" transform="translate(132 393.6)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_114" transform="translate(132 356.4)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_115" transform="translate(132 319.2)" d="M37.2 0H0V37.2H37.2V0Z" fill="#8648E0"/>
+<path id="Vector_116" transform="translate(132 281.7)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_117" transform="translate(132 244.5)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_118" transform="translate(132 207)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_119" transform="translate(132 169.8)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_120" transform="translate(94.8 319.2)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_121" transform="translate(94.8 356.4)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_122" transform="translate(94.8 281.7)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_123" transform="translate(94.8 244.5)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_124" transform="translate(94.8 207)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_125" transform="translate(57.3 281.7)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<path id="Vector_126" transform="translate(57.3 244.5)" d="M37.2 0H0V37.2H37.2V0Z" fill="#D1036B"/>
+<g id="Group" transform="translate(20.1 20.4)">
+<path id="Vector_127" transform="translate(522.6 298.8)" d="M37.2 0H0V37.2H37.2V0Z" fill="#CE5F9C"/>
+<path id="Vector_128" transform="translate(522.6 261.3)" d="M37.2 0H0V37.2H37.2V0Z" fill="#CE5F9C"/>
+<path id="Vector_129" transform="translate(522.6 224.1)" d="M37.2 0H0V37.2H37.2V0Z" fill="#CE5F9C"/>
+<path id="Vector_130" transform="translate(485.1 336)" d="M37.2 0H0V37.2H37.2V0Z" fill="#CE5F9C"/>
+<path id="Vector_131" transform="translate(485.1 186.6)" d="M37.2 0H0V37.2H37.2V0Z" fill="#CE5F9C"/>
+<path id="Vector_132" transform="translate(447.9 485.4)" d="M37.2 0H0V37.2H37.2V0Z" fill="#CE5F9C"/>
+<path id="Vector_133" transform="translate(447.9 447.9)" d="M37.2 0H0V37.2H37.2V0Z" fill="#CE5F9C"/>
+<path id="Vector_134" transform="translate(447.9 410.7)" d="M37.2 0H0V37.2H37.2V0Z" fill="#CE5F9C"/>
+<path id="Vector_135" transform="translate(410.7 522.6)" d="M37.2 0H0V37.2H37.2V0Z" fill="#CE5F9C"/>
+<path id="Vector_136" transform="translate(373.2 522.6)" d="M37.2 0H0V37.2H37.2V0Z" fill="#CE5F9C"/>
+<path id="Vector_137" transform="translate(336 522.6)" d="M37.2 0H0V37.2H37.2V0Z" fill="#CE5F9C"/>
+<path id="Vector_138" transform="translate(336 37.2)" d="M37.2 0H0V37.2H37.2V0Z" fill="#CE5F9C"/>
+<path id="Vector_139" transform="translate(298.5)" d="M37.2 0H0V37.2H37.2V0Z" fill="#CE5F9C"/>
+<path id="Vector_140" transform="translate(261.3)" d="M37.2 0H0V37.2H37.2V0Z" fill="#CE5F9C"/>
+<path id="Vector_141" transform="translate(223.8)" d="M37.2 0H0V37.2H37.2V0Z" fill="#CE5F9C"/>
+<path id="Vector_142" transform="translate(186.6 522.6)" d="M37.2 0H0V37.2H37.2V0Z" fill="#CE5F9C"/>
+<path id="Vector_143" transform="translate(186.6 37.2)" d="M37.2 0H0V37.2H37.2V0Z" fill="#CE5F9C"/>
+<path id="Vector_144" transform="translate(149.1 522.6)" d="M37.2 0H0V37.2H37.2V0Z" fill="#CE5F9C"/>
+<path id="Vector_145" transform="translate(111.9 485.4)" d="M37.2 0H0V37.2H37.2V0Z" fill="#CE5F9C"/>
+<path id="Vector_146" transform="translate(74.7 447.9)" d="M37.2 0H0V37.2H37.2V0Z" fill="#CE5F9C"/>
+<path id="Vector_147" transform="translate(74.7 410.7)" d="M37.2 0H0V37.2H37.2V0Z" fill="#CE5F9C"/>
+<path id="Vector_148" transform="translate(74.7 149.4)" d="M37.2 0H0V37.2H37.2V0Z" fill="#CE5F9C"/>
+<path id="Vector_149" transform="translate(37.2 298.8)" d="M37.2 0H0V37.2H37.2V0Z" fill="#CE5F9C"/>
+<path id="Vector_150" transform="translate(37.2 186.6)" d="M37.2 0H0V37.2H37.2V0Z" fill="#CE5F9C"/>
+<path id="Vector_151" transform="translate(0 261.3)" d="M37.2 0H0V37.2H37.2V0Z" fill="#CE5F9C"/>
+<path id="Vector_152" transform="translate(0 224.1)" d="M37.2 0H0V37.2H37.2V0Z" fill="#CE5F9C"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_58_185">
+<rect width="600" height="600" fill="white"/>
+</clipPath>
+</defs>
+</svg>
